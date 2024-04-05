@@ -86,7 +86,7 @@ const trivia = new Trivia();
 trivia.addQuestion("Quem deu o primeiro beijo?", "Matheus", "Karla");
 trivia.addQuestion("Quem disse 'eu te amo' primeiro?", "Matheus", "Karla");
 trivia.addQuestion("Qual é a data do aniversário de namoro?", "11/06/2017/8", "15/06/2017");
-trivia.addQuestion("Quem ofereceu o primeiro presente?", "Matheus", "Karla");
+trivia.addQuestion("Quem deu o primeiro presente?", "Matheus, um saco de bala de banana", "Karla");
 trivia.addQuestion("Quem é mais romântico?", "Matheus", "Karla");
 trivia.addQuestion("Quem é mais teimoso?", "Karla", "Matheus");
 trivia.addQuestion("Qual é o nome da música de vucês?", "Não temos, mas possível ela falar my girl (gosto musical diferentes kkk)", "I Will Always Love You - Whitney Houston");
